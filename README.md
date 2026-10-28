@@ -1,7 +1,7 @@
 
 <h1 align="center">¡Hola! Soy Bragga 👋</h1>
 
-<h3 align="center">💻 Desarrollador web en formación | ilyRetro</h3>
+<h3 align="center">💻 Desarrollador web en formación </h3>
 
 <p align="center">
   Aprendiendo, creando proyectos y mejorando mi código cada día.
