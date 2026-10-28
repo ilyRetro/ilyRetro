@@ -33,12 +33,26 @@
 - ⚡ **Neopixel:** experimentos y proyectos de programación.
 - 🧢 **SOLO GORRAS:** proyecto de tienda online en desarrollo.
 
-### 📊 Mi actividad en GitHub
+<h3 align="center">📊 Mi actividad en GitHub</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ilyRetro&show_icons=true&theme=transparent&hide_border=true"
-    alt="Estadísticas de GitHub"
+    src="https://github-stats-extended.vercel.app/api?username=ilyRetro&include_all_commits=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3B30&icon_color=FF3B30&text_color=C9D1D9&custom_title=Bragga%20%7C%20GitHub%20Stats"
+    alt="Estadísticas de GitHub de Bragga"
+    width="49%"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ilyRetro&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=FF3B30&text_color=C9D1D9"
+    alt="Lenguajes más utilizados"
+    width="49%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ilyRetro&theme=dark&hide_border=true&background=0D1117&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30"
+    alt="Racha de contribuciones"
+    width="70%"
   />
 </p>
 
