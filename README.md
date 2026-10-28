@@ -36,7 +36,7 @@
 <p align="center">
   Una tienda online desarrollada con Node.js, Express y SQLite.
   <br />
-  Diseño moderno con temática negra y roja, catálogo de productos y carrito de compras.
+  Diseño moderno con temática negra y roja, catálogo de productos como gorras urbanas y hunters con diseños unicos.
 </p>
 
 <p align="center">
