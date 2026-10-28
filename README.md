@@ -29,9 +29,29 @@
 
 ### 📂 Mis proyectos
 
-- 🌐 **HTML:** prácticas y proyectos de desarrollo web.
-- ⚡ **Neopixel:** experimentos y proyectos de programación.
 - 🧢 **SOLO GORRAS:** proyecto de tienda online en desarrollo.
+
+<h2 align="center">🧢 SOLO GORRAS — Proyecto destacado</h2>
+
+<p align="center">
+  Una tienda online desarrollada con Node.js, Express y SQLite.
+  <br />
+  Diseño moderno con temática negra y roja, catálogo de productos y carrito de compras.
+</p>
+
+<p align="center">
+  <img src="./solo-gorras-preview.png" alt="Vista previa de SOLO GORRAS" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+<p align="center">
+  <i>Diseñado y desarrollado por Bragga 🚀</i>
+</p>
 
 <h3 align="center">📊 Mi actividad en GitHub</h3>
 
