@@ -1,37 +1,57 @@
-# 👋 ¡Hola! Soy Sebastian, un estudiante y desarrollador en formación.
 
-💻 Soy estudiante y aprendiz del mundo de la programación y el desarrollo web. Me gusta aprender cosas nuevas, crear proyectos y mejorar mis habilidades poco a poco.
+<h1 align="center">¡Hola! Soy Bragga 👋</h1>
 
-## 🚀 Sobre mí
+<h3 align="center">💻 Desarrollador web en formación | ilyRetro</h3>
 
-- 🎓 Estudiante y desarrollador en formación.
-- 🌱 Actualmente aprendiendo y fortaleciendo mis conocimientos en programación.
-- 🛠️ Me interesa el desarrollo web y la creación de aplicaciones funcionales.
-- 📚 Me gusta aprender mediante proyectos prácticos.
-- 🎯 Mi objetivo es seguir creciendo como desarrollador y adquirir experiencia.
+<p align="center">
+  Aprendiendo, creando proyectos y mejorando mi código cada día.
+</p>
 
-## 💻 Tecnologías
+---
 
-Estas son algunas de las tecnologías con las que trabajo o estoy aprendiendo:
+### 🚀 Sobre mí
 
-- **Frontend:** HTML, CSS y JavaScript.
-- **Backend:** Node.js y Express.
-- **Bases de datos:** SQLite.
-- **Herramientas:** Git, GitHub y Visual Studio Code.
+- 🎓 Aprendiendo desarrollo web y programación.
+- 💻 Me gusta construir proyectos y experimentar con nuevas tecnologías.
+- 🌱 Siempre buscando aprender algo nuevo.
+- 🎯 Mi objetivo es mejorar mis habilidades y crear proyectos útiles.
 
-## 📂 Proyectos
+### 🛠️ Tecnologías y herramientas
 
-### 🧢 SOLO GORRAS
-Proyecto de una tienda en línea desarrollado con Node.js, Express y SQLite. Incluye funcionalidades como catálogo de productos, carrito de compras, pedidos y panel administrativo.
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-> Puedes encontrar más proyectos en mis repositorios de GitHub.
+### 📂 Mis proyectos
 
-## 📈 Mi objetivo
+- 🌐 **HTML:** prácticas y proyectos de desarrollo web.
+- ⚡ **Neopixel:** experimentos y proyectos de programación.
+- 🧢 **SOLO GORRAS:** proyecto de tienda online en desarrollo.
 
-Seguir aprendiendo, construir proyectos cada vez mejores y compartir mi progreso en el mundo de la tecnología.
+### 📊 Mi actividad en GitHub
 
-## 🤝 Conectemos
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ilyRetro&show_icons=true&theme=transparent&hide_border=true"
+    alt="Estadísticas de GitHub"
+  />
+</p>
 
-Si te interesa alguno de mis proyectos o quieres compartir conocimientos, ¡será genial conectar contigo!
+### 🤝 Conecta conmigo
 
-⭐ Gracias por visitar mi perfil.
+<p>
+  <a href="https://github.com/ilyRetro">
+    <img src="https://img.shields.io/badge/GitHub-ilyRetro-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Aprendiendo hoy, construyendo el futuro. 🚀</i>
+</p>
