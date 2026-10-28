@@ -44,13 +44,14 @@
 
 ### 🤝 Conecta conmigo
 
-<p>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sebastianbragga%40gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contactarme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contactarme por Gmail" />
+  </a>
   <a href="https://github.com/ilyRetro">
-    <img src="https://img.shields.io/badge/GitHub-ilyRetro-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-ilyRetro-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mi GitHub" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Aprendiendo hoy, construyendo el futuro. 🚀</i>
