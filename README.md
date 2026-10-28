@@ -40,7 +40,11 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ilyRetro/ilyRetro/main/solo-gorras-preview.png" alt="Vista previa de SOLO GORRAS" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/ilyRetro/ilyRetro/main/solo-gorras-preview.png"
+    alt="Vista previa de la tienda online SOLO GORRAS"
+    width="100%"
+  />
 </p>
 
 <p align="center">
