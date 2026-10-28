@@ -29,7 +29,7 @@
 
 ### 📂 Mis proyectos
 
-- 🧢 **SOLO GORRAS:** proyecto de tienda online en desarrollo.
+- 🧢 **SOLO GORRAS:** Proyecto de tienda de exhibicion para productos varios.
 
 <h2 align="center">🧢 SOLO GORRAS — Proyecto destacado</h2>
 
