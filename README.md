@@ -60,7 +60,6 @@
 ---
 
 ## 🚛 ZONA GAMERS — Truckers Latinoamérica
-
 Landing page para una comunidad latina de American Truck Simulator.
 
 ---
