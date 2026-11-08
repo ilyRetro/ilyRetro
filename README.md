@@ -65,10 +65,6 @@ Landing page para una comunidad latina de American Truck Simulator.
 
 ---
 
-## 🚛 ZONA GAMERS — Truckers Latinoamérica
-
-Página web para una comunidad latina de American Truck Simulator.
-
 <p align="center">
   <a href="https://ilyretro.github.io/ZONA-GAMERS/">
     <img src="https://raw.githubusercontent.com/ilyRetro/ZONA-GAMERS/main/assets/img/preview-zona-gamers.png"
