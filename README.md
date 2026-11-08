@@ -63,6 +63,36 @@
 
 Landing page para una comunidad latina de American Truck Simulator.
 
+---
+
+## 🚛 ZONA GAMERS — Truckers Latinoamérica
+
+Página web para una comunidad latina de American Truck Simulator.
+
+<p align="center">
+  <a href="https://ilyretro.github.io/ZONA-GAMERS/">
+    <img src="https://raw.githubusercontent.com/ilyRetro/ZONA-GAMERS/main/assets/img/preview-zona-gamers.png"
+    width="100%"
+    alt="Vista previa de ZONA GAMERS">
+  </a>
+</p>
+
+**Características:**
+- 🎮 Diseño gamer personalizado.
+- 🚛 Fondo temático de American Truck Simulator.
+- 💬 Integración con Discord.
+- 🟢 Visualización de miembros conectados y totales.
+- 📱 Diseño adaptable a diferentes dispositivos.
+- 🌐 Publicado con GitHub Pages.
+
+**Tecnologías:** HTML5 · CSS3 · JavaScript · GitHub Pages
+
+🔗 [VISITAR PÁGINA WEB](https://ilyretro.github.io/ZONA-GAMERS/)
+
+💻 [VER REPOSITORIO](https://github.com/ilyRetro/ZONA-GAMERS)
+
+*Diseñado y desarrollado por Bragga 🚀*
+
 - 🎮 Diseño moderno y temática gamer.
 - 🚛 Fondo personalizado de American Truck Simulator.
 - 💬 Integración con Discord.
