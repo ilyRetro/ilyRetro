@@ -108,7 +108,7 @@ Landing page para una comunidad latina de American Truck Simulator.
   />
 </p>
 
-### 🤝 Conecta conmigo
+<h1 align="center">🤝 Conecta conmigo</h1>
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sebastianbragga%40gmail.com" target="_blank">
@@ -116,5 +116,5 @@ Landing page para una comunidad latina de American Truck Simulator.
   </a>
 </p>
 
-  <i>Aprendiendo hoy, construyendo el futuro. 🚀</i>
+<h1 align="center"><i>Aprendiendo hoy, construyendo el futuro. 🚀</i></h1>
 </p>
